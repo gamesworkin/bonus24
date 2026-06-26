@@ -1,5 +1,5 @@
 // ============================================================================
-// CONFIGURAÇÃO DO FIREBASE (SUBSTITUA PELOS SEUS DADOS REAIS DO CONSOLE)
+// CONFIGURAÇÃO DO FIREBASE (SUBSTITUA PELOS SEUS DADOS REAIS DO CONSOLE) 
 // ============================================================================
 const firebaseConfig = {
     apiKey: "AIzaSyAQUCCvXQFuCcRHBqNqg4XxSENa8Xv0WeA",
