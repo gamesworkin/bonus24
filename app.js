@@ -110,7 +110,7 @@ if (loginForm) {
             })
             .finally(() => {
                 // Restaura o botão ao estado padrão independente do sucesso ou erro
-                btnLoginSubmit.textContent = "Autenticar no Firebase";
+                btnLoginSubmit.textContent = "Acessar como ADMIN";
                 btnLoginSubmit.disabled = false;
             });
     });
